@@ -1,4 +1,4 @@
-## New Year Countdown
+## New Year Countdown <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 
 Landing page that counts down from the current date to the next new year
 
